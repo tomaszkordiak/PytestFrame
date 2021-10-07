@@ -1,0 +1,4 @@
+.pytest_cache
+main.py
+result*
+assets
